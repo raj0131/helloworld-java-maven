@@ -42,12 +42,12 @@
     <repository>
         <id>deployment</id>
         <name>Internal-releases</name>
-        <url>http://52.53.216.223:8081/nexus/content/repositories/releases/</url>
+        <url>http://18.144.29.249:8081/nexus/content/repositories/releases/</url>
     </repository>
     <snapshotRepository>
         <id>deployment</id>
         <name>Internal-snapshots</name>
-        <url>http://52.53.216.223:8081/nexus/content/repositories/snapshots/</url>
+        <url>http://18.144.29.249:8081/nexus/content/repositories/snapshots/</url>
     </snapshotRepository>
 </distributionManagement>
 
